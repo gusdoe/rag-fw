@@ -1,6 +1,6 @@
-# Building a Custom Chatbot from Your Website Data using OpenAI and Langchain
+# Building a Custom Chatbot from Your Website Data using llama and Langchain
 
-This project enables you to build a custom RAG based chatbot that answers customer queries using website data. The chatbot utilizes ChatGPT and LangChain to answer user questions based on the content of a specified website.
+This project enables you to build a custom RAG based chatbot that answers customer queries using website data. The chatbot utilizes LLAMA3 and LangChain to answer user questions based on the content of a specified website.
 
 ## Setup Instructions
 
@@ -8,7 +8,7 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/cloudxlab/RAG-Chatbot-from-web-data.git
+   git clone https://github.com/gusdoe/rag-fw.git
    ```
 
 2. **Create a Virtual Environment:**
@@ -39,9 +39,6 @@ Follow these steps to set up the project on your local machine:
 
 Once the project is set up, you can proceed to run the demo code provided in `demo.ipynb` to see the chatbot in action.
 
-## Video explanation
-
-Please find the video explanation [here](https://youtube.com/live/RMt7UaVs33A).
 
 ## Further Work
 
